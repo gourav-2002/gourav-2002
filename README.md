@@ -1,5 +1,5 @@
 # 💫 About Me:
-Designer | Developer | Problem Solver | Work on Ambition and Tea.
+Frontend Developer | WordPress Developer | SEO | Problem Solver | Work on Ambition and Tea.
 
 [Portfolio](https://gourav-2002.github.io/portfolio-react/)
 
